@@ -68,6 +68,6 @@ Final Result
 
 **Computer Vision:** OpenCV, Pillow, NumPy
 
-**Database:** PostgreSQL / MongoDB
+**Database:** PostgreSQL 
 
 **Tools:** Git, GitHub, VS Code
