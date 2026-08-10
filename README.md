@@ -19,21 +19,70 @@ Risk Score / Classification
   ↓
 Dashboard Result
 
-🔄 Project Flow
+# 🔄 Project Flow
 
-
-User Input
-   ↓
-Data / File Upload
-   ↓
+```text
+User
+  ↓
+Upload / Enter Data
+  ↓
 Input Validation
-   ↓
+  ↓
 Preprocessing
-   ↓
-AI Model Analysis
-   ↓
+  ↓
+AI Analysis
+  ↓
 Threat Detection
-   ↓
-Confidence & Risk Assessment
-   ↓
+  ↓
+Risk Assessment
+  ↓
 Final Result
+
+# 🤖 AI Pipeline
+```text
+
+### 📥 01 — Input Data
+
+Image • Video • Audio • URL • Email • Transaction Data
+
+---
+
+### ⚙️ 02 — Preprocessing
+
+Data Cleaning • Resizing • Normalization • Validation
+
+---
+
+### 🔍 03 — Feature Extraction
+
+Extract relevant patterns, characteristics, and threat indicators.
+
+---
+
+### 🧠 04 — AI / ML Model
+
+Computer Vision • NLP • Deep Learning • Machine Learning
+
+---
+
+### 🎯 05 — Classification
+
+Real • Fake • Safe • Suspicious • Malicious
+
+---
+
+### 📊 06 — Confidence Score
+
+Model-generated probability indicating prediction confidence.
+
+---
+
+### ⚠️ 07 — Risk Assessment
+
+Low • Medium • High • Critical
+
+---
+
+### 🚨 08 — Final Result
+
+Threat classification + confidence + risk assessment + analysis
