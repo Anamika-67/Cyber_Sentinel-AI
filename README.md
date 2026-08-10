@@ -1,0 +1,2 @@
+# Cyber_Sentinel-AI
+CyberSentinel AI is a unified AI-powered cybersecurity platform designed to detect and analyze threats like fake media, phishing, fraud, and data leaks. It provides a centralized system for faster threat detection, risk analysis, and digital security.
