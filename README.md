@@ -6,38 +6,68 @@ CyberSentinel AI is a unified AI-powered cybersecurity platform designed to dete
 
 ```text
 User
-  ↓
+ ↓
 Frontend Dashboard
-  ↓
+ ↓
 Backend API
-  ↓
+ ↓
 AI / ML Processing Layer
-  ↓
+ ↓
 Threat Detection & Analysis
-  ↓
+ ↓
 Risk Score / Classification
-  ↓
+ ↓
 Dashboard Result
+```
 
 ## 🤖 AI Pipeline
 
 ```text
-                         User Input
-                             │
-                             ▼
-                    Input Processing
-                             │
-                             ▼
-                    Feature Extraction
-                             │
-                             ▼
-                       AI / ML Model
-                             │
-                             ▼
-                       Classification
-                             │
-                             ▼
-                     Confidence Score
-                             │
-                             ▼
-                        Risk Level
+User Input
+    ↓
+Input Processing
+    ↓
+Feature Extraction
+    ↓
+AI / ML Model
+    ↓
+Classification
+    ↓
+Confidence Score
+    ↓
+Risk Level
+```
+
+## 🔄 Project Flow
+
+```text
+User
+ ↓
+Upload / Enter Data
+ ↓
+Validation
+ ↓
+Processing
+ ↓
+AI Analysis
+ ↓
+Threat Detection
+ ↓
+Risk Assessment
+ ↓
+Final Result
+```
+
+## 🛠️ Tech Stack
+
+**Frontend:** React.js, JavaScript, HTML5, CSS3
+
+**Backend:** Python, FastAPI, Uvicorn
+
+**AI/ML:** PyTorch, Hugging Face, Scikit-learn
+
+**Computer Vision:** OpenCV, Pillow, NumPy
+
+**Database:** PostgreSQL / MongoDB
+
+**Tools:** Git, GitHub, VS Code
