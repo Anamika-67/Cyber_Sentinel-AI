@@ -19,37 +19,25 @@ Risk Score / Classification
   ↓
 Dashboard Result
 
-# 🤖 AI PIPELINE
+## 🤖 AI Pipeline
 
-### 📥 INPUT
-User Image / Video / Audio / URL / Email
-
----
-
-### ⚙️ PROCESSING
-Validation → Cleaning → Preprocessing
-
----
-
-### 🔍 ANALYSIS
-Feature Extraction → AI / ML Model
-
----
-
-### 🎯 DETECTION
-Real / Fake / Suspicious / Malicious
-
----
-
-### 📊 CONFIDENCE
-Prediction Confidence Score
-
----
-
-### ⚠️ RISK
-Low / Medium / High / Critical
-
----
-
-### 🚨 RESULT
-Final Threat Analysis
+```text
+                         User Input
+                             │
+                             ▼
+                    Input Processing
+                             │
+                             ▼
+                    Feature Extraction
+                             │
+                             ▼
+                       AI / ML Model
+                             │
+                             ▼
+                       Classification
+                             │
+                             ▼
+                     Confidence Score
+                             │
+                             ▼
+                        Risk Level
